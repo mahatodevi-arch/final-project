@@ -1,4 +1,10 @@
-# React + Vite
+# Travel Now AI
+
+Plan your perfect trip with our AI-powered travel planner using Claude Sonnet.
+
+**Live Demo:** [https://mahatodevi-arch.github.io/final-project/](https://mahatodevi-arch.github.io/final-project/)
+
+## React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
