@@ -45,7 +45,7 @@ function App() {
 
       <header className="hero">
         <div className="container">
-          <h1>Travel now ai</h1>
+          <h1>Travel Now AI</h1>
           <p>Tell us where you want to go, and our AI will craft the perfect itinerary for you.</p>
         </div>
       </header>
@@ -88,7 +88,7 @@ function App() {
       </main>
 
       <footer style={{ textAlign: 'center', padding: '4rem 0', color: 'var(--text-muted)', fontSize: '0.9rem' }}>
-        <p>© 2026 Travel now ai. Powered by Anthropic Claude.</p>
+        <p>© 2026 Travel Now AI. Powered by Anthropic Claude.</p>
       </footer>
     </div>
   );
